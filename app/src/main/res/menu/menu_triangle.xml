@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sin"
+        android:title="sin("
+        />
+    <item
+        android:id="@+id/cos"
+        android:title="cos("
+        />
+    <item
+        android:id="@+id/tan"
+        android:title="tan("
+        />
+    <item
+        android:id="@+id/arcsin"
+        android:title="arcsin("
+        />
+    <item
+        android:id="@+id/arccos"
+        android:title="arccos("
+        />
+    <item
+        android:id="@+id/arctan"
+        android:title="arctan("
+        />
+</menu>
